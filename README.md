@@ -1,2 +1,3 @@
 # Mathematical-modeling
-这时liao084学习数学建模的记录
+这是liao084学习数学建模的记录
+希望每天都可以坚持下去
